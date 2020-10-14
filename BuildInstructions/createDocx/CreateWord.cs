@@ -398,6 +398,7 @@ namespace BuildInstructions.createDocx
                     }
                     if (leaderNode.CentreNodeList != null) 
                     {
+
                         //遍历二级目录
                         for (int j = 0; j < leaderNode.CentreNodeList.Count; j++)
                         {
